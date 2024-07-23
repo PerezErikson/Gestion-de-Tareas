@@ -33,14 +33,17 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
 ## Instalación y Uso
 
 1. **Clonar el Repositorio:**
+   
    git clone https://github.com/PerezErikson/Tarea.git
 
-2. **Navegar al Directorio del Proyecto:**
+3. **Navegar al Directorio del Proyecto:**
+   
   cd Tarea
 
-3. **Instalar Dependencias:**
+4. **Instalar Dependencias:**
 
 npm install
 
-4. **Iniciar el Servidor de Desarrollo: **
+4. **Iniciar el Servidor de Desarrollo:**
+   
    npm run dev
