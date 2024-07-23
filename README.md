@@ -1,3 +1,12 @@
+## Objetivos del Proyecto
+
+1. Crear una aplicación web completa utilizando React.
+2. Aplicar los conceptos de componentes, estado, props y eventos.
+3. Manejar estados complejos y renderizado condicional.
+4. Implementar una funcionalidad de gestión de tareas.
+5. Practicar la depuración de aplicaciones React.
+6. Presentar la aplicación en funcionamiento y subir el código a GitHub.
+
 # Aplicación de Gestión de Tareas
 
 ## Descripción del Proyecto
