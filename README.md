@@ -34,16 +34,18 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
 
 1. **Clonar el Repositorio:**
    
-    **git clone https://github.com/PerezErikson/Tarea.git **
- **Clona el repositorio de GitHub en tu máquina local. Esto descarga una copia del código fuente del proyecto en tu directorio actual. **
+    **git clone https://github.com/PerezErikson/Tarea.git**
+ **Clona el repositorio de GitHub en tu máquina local. Esto descarga una copia del código fuente del proyecto en tu directorio actual.**
 3. **Navegar al Directorio del Proyecto:**
    
-  cd Tarea
-
+   **cd Tarea**
+ **Cambia el directorio actual al directorio del proyecto descargado. Esto es necesario para ejecutar los comandos de instalación y desarrollo dentro del contexto del proyecto.**
 4. **Instalar Dependencias:**
 
-npm install
-
+ **npm install**
+ **Instala todas las dependencias necesarias para el proyecto que están listadas en el archivo package.json. Esto incluye React, Vite y cualquier otra biblioteca o herramienta que el proyecto necesite para funcionar correctamente.**
+ 
 4. **Iniciar el Servidor de Desarrollo:**
    
-   npm run dev
+    **npm run dev**
+**Inicia el servidor de desarrollo. Esto compila el proyecto y lo sirve en un entorno de desarrollo local, generalmente accesible en http://localhost:3000. El servidor también observa los cambios en el código fuente y actualiza la aplicación en el navegador en tiempo real.**
