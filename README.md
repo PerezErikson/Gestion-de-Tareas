@@ -55,3 +55,7 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
     **npm run dev**
    
 **Inicia el servidor de desarrollo. Esto compila el proyecto y lo sirve en un entorno de desarrollo local, generalmente accesible en http://localhost:3000. El servidor también observa los cambios en el código fuente y actualiza la aplicación en el navegador en tiempo real.**
+
+![Descripción de la imagen](img/1.pngpng)
+![Descripción de la imagen](img/2.pngpng)
+![Descripción de la imagen](img/3.pngpng)
