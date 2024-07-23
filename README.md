@@ -1,12 +1,3 @@
-## Objetivos del Proyecto
-
-1. Crear una aplicación web completa utilizando React.
-2. Aplicar los conceptos de componentes, estado, props y eventos.
-3. Manejar estados complejos y renderizado condicional.
-4. Implementar una funcionalidad de gestión de tareas.
-5. Practicar la depuración de aplicaciones React.
-6. Presentar la aplicación en funcionamiento y subir el código a GitHub.
-
 # Aplicación de Gestión de Tareas
 
 ## Descripción del Proyecto
@@ -29,3 +20,12 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
 - **Filtrar Tareas**: Los usuarios pueden filtrar la lista de tareas para mostrar solo completadas, no completadas o todas.
 - **Estado Complejo**: La aplicación maneja el estado de la lista de tareas de manera eficiente y reactiva.
 - **Renderizado Condicional**: Muestra diferentes vistas basadas en el estado de las tareas.
+
+## Objetivos del Proyecto
+
+1. Crear una aplicación web completa utilizando React.
+2. Aplicar los conceptos de componentes, estado, props y eventos.
+3. Manejar estados complejos y renderizado condicional.
+4. Implementar una funcionalidad de gestión de tareas.
+5. Practicar la depuración de aplicaciones React.
+6. Presentar la aplicación en funcionamiento y subir el código a GitHub.
