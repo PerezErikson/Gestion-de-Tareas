@@ -34,8 +34,8 @@ La aplicación está diseñada para practicar conceptos clave de React, incluyen
 
 1. **Clonar el Repositorio:**
    
-   git clone https://github.com/PerezErikson/Tarea.git
-
+    **git clone https://github.com/PerezErikson/Tarea.git **
+ **Clona el repositorio de GitHub en tu máquina local. Esto descarga una copia del código fuente del proyecto en tu directorio actual. **
 3. **Navegar al Directorio del Proyecto:**
    
   cd Tarea
